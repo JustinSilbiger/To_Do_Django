@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.so
+*.pyo
+*.pyd
+*.sqlite3
+
+# If you are using Django's SECRET_KEY or other secrets in environment variables, make sure to ignore .env file:
+.env
+
+# Node.js
+node_modules/
+
+# Database
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+
+# Local settings
+local_settings.py
+
+# MacOS files
+.DS_Store
