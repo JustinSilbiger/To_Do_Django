@@ -30,3 +30,7 @@ local_settings.py
 
 # MacOS files
 .DS_Store
+
+
+# .gitignore
+.env
